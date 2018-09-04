@@ -1,0 +1,20 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.24",
+    "needle": "^2.2.2",
+    "request": "^2.88.0",
+    "tress": "^1.1.4"
+  }
+}
